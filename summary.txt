@@ -1,0 +1,13 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+I chose Python because it is open source and has a lot of support and libraries that can be used for different applications.
+It is also easy to understand and learn while being very flexible. The reason I chose Flask is because it is a lightweight
+microframework, while providing all the necessary tools to build a REST API.
+
+2. What are the advantages and disadvantages of your solution?
+Since Flask is a microframework, it is simpler to use to build a REST API. However, it doesnt have all the
+features that a full framework like Django has. Other than that, Python has a lot of support and libraries that can be used
+to support and enhance the API in the future.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+My favorite project is probably the AirBnB Searcher me and some group mates built, as it taught me many new things such
+as using Git, parsing CSV files, and utilizing different data structures to maintain quick search times.
